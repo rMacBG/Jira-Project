@@ -6,3 +6,4 @@ As a first project it’s not something big but something that has to be made wi
 The first part of the game is going to have a story and how the player is involved in the game area. There will be a tutorial of how to play the game, how all controls work 
 and how the story will progress further. The main idea here is to get the player involved with the main NPC characters as they will be a big part of the game itself. The game 
 will be made in C# and mainly using the .Net architecture as it is used in the engine we will use that is Unity.
+
